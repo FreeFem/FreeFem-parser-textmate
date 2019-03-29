@@ -1,4 +1,4 @@
-# freefem extension for TextMate
+# FreeFEM extension for TextMate
 
 
 ## New users
@@ -20,7 +20,7 @@ It looks best with Theme Blackboard (dark background) or Mac Classic (white back
 
 3 Code folding is also enabled
 
-3. Launch freefem++ on the file displayed in the front window with the command cmd+R
+3. Launch FreeFem++ on the file displayed in the front window with the command cmd+R
 
 Note that the file is saved before the launch.
 
